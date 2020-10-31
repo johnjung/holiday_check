@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "classmap": [
+            "src/CheckHoliday.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
